@@ -1,0 +1,1 @@
+Changed: keys to do commands, you can find a list of working keys in the help menu. Also, have not fully implemented the methods to verify that object created is within boundaries. When lives reaches 0, user is prompted to start a new game or quit.
